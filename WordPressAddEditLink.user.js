@@ -3,8 +3,8 @@
 // @namespace      https://github.com/tmsanrinsha
 // @description    WordPressでログインしてない時も編集リンクを表示させる
 // @grant          none
-// @downloadURL    https://raw.githubusercontent.com/tmsanrinsha/WordPressAddEditLink-user-js/master/WordPressAddEditLink.user.js
-// @updateURL      https://raw.githubusercontent.com/tmsanrinsha/WordPressAddEditLink-user-js/master/WordPressAddEditLink.user.js
+// @downloadURL    https://github.com/tmsanrinsha/WordPressAddEdit-user-js/raw/master/WordPressAddEditLink.user.js
+// @updateURL      https://github.com/tmsanrinsha/WordPressAddEdit-user-js/raw/master/WordPressAddEditLink.user.js
 // @version        1.0
 // ==/UserScript==
 

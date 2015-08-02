@@ -27,6 +27,9 @@
 
     elemSpan.appendChild(elemA);
 
-    elemEditMeta = document.querySelector('#post-7064 > header > div:nth-child(3)');
+    elemEditMeta = document.querySelector('div.entry-meta:nth-child(3)');
+    if (elemEditMeta === null) {
+        console.log('Cannot select div.entry-meta:nth-child(3)');
+    }
     elemEditMeta.appendChild(elemSpan);
 })();
